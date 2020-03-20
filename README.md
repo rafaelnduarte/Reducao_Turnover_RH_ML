@@ -17,5 +17,5 @@ Utilizando dados disponibilizados no [Kaggle]('https://kaggle.com/'), construire
 
 
 <p align="center" >
-  <img src="data/rafaelnd_ds.png" >
+  <img src="rafaelnd_banner.png" width=70% >
 </p>
